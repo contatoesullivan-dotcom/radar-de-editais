@@ -1,7 +1,7 @@
 {
-  "generated_at": null,
-  "data_type": "referencias_iniciais",
-  "disclaimer": "Registros de páginas oficiais para demonstrar o aplicativo. Prazos e requisitos não verificados não significam inscrições abertas.",
+  "generated_at": "2026-11-16T23:37:42+00:00",
+  "data_type": "coleta_automatica_parcial",
+  "disclaimer": "Fontes consultadas periodicamente. Títulos e links não comprovam que uma inscrição está aberta. Confirme prazos, requisitos e valores na publicação oficial.",
   "items": [
     {
       "id": "agropolos-018-2026",
@@ -27,7 +27,8 @@
         "remuneração",
         "requisitos",
         "prazo"
-      ]
+      ],
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
     },
     {
       "id": "agropolos-019-2026",
@@ -100,7 +101,8 @@
         "etapa",
         "página oficial"
       ],
-      "needs_verification": []
+      "needs_verification": [],
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
     },
     {
       "id": "ufc-aditivo04-2027",
@@ -121,7 +123,8 @@
         "data",
         "página oficial"
       ],
-      "needs_verification": []
+      "needs_verification": [],
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
     },
     {
       "id": "ufc-edital-mestrado-2027",
@@ -146,6 +149,3080 @@
       "needs_verification": [
         "eventuais novas chamadas de inscrição"
       ]
+    },
+    {
+      "id": "agropolos-999f43d2012f50",
+      "title": "AVISO DE PRORROGAÇÃO DE PRAZO EDITAL DE CREDENCIAMENTO Nº 018/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Prorrogação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://institutoagropolos.org.br/editais/aviso-de-prorrogacao-de-prazo-edital-de-credenciamento-no-018-2026",
+      "source_id": "agropolos",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "agropolos-e8f9b0f6cc3a29",
+      "title": "AVISO DE PRORROGAÇÃO DE PRAZO EDITAL DE CREDENCIAMENTO Nº 015/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Prorrogação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://institutoagropolos.org.br/editais/aviso-de-prorrogacao-de-prazo-edital-de-credenciamento-no-015-2026",
+      "source_id": "agropolos",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "agropolos-6aefbf0b6a7b8c",
+      "title": "EDITAL DE CREDENCIAMENTO N° 019/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Credenciamento",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://institutoagropolos.org.br/editais/edital-de-credenciamento-n-019-2026",
+      "source_id": "agropolos",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "agropolos-ef32c04d273078",
+      "title": "AVISO DE MANIFESTAÇÃO DE INTERESSE N° 017/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://institutoagropolos.org.br/editais/aviso-de-manifestacao-de-interesse-n-017-2026",
+      "source_id": "agropolos",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "agropolos-e5e85984254ece",
+      "title": "EDITAL DE CREDENCIAMENTO Nº 015/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Credenciamento",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://institutoagropolos.org.br/editais/edital-de-credenciamento-no-015-2026",
+      "source_id": "agropolos",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "agropolos-20dc79898563bf",
+      "title": "RESULTADO DO EDITAL DE CREDENCIAMENTO N° 014/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Credenciamento",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://institutoagropolos.org.br/editais/resultado-do-edital-de-credenciamento-n-014-2026",
+      "source_id": "agropolos",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "agropolos-a8cf7e9b97f1b9",
+      "title": "AVISO DE REVOGAÇÃO – PREGÃO ELETRÔNICO Nº 116830/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Pregão",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://institutoagropolos.org.br/editais/aviso-de-revogacao-pregao-eletronico-no-116830-2026",
+      "source_id": "agropolos",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "agropolos-a140cc5b867d6e",
+      "title": "TERMO DE CONVOCAÇÃO – EDITAL DE CREDENCIAMENTO Nº 011/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Credenciamento",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://institutoagropolos.org.br/editais/termo-de-convocacao-edital-de-credenciamento-no-011-2026",
+      "source_id": "agropolos",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "agropolos-0ba15270073648",
+      "title": "RESULTADO FINAL DO EDITAL N°008/2026 DE PROCESSO SELETIVO",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "seletivos",
+      "event_type": "Processo seletivo",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://institutoagropolos.org.br/editais/resultado-final-do-edital-n008-2026-de-processo-seletivo",
+      "source_id": "agropolos",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ppgcom-3d11e39c69fe7e",
+      "title": "Processo Seletivo – Turmas 2027: Resultado Final Pós-recursos – Etapa Prova Oral/Defesa de Projeto (Quarta Etapa)",
+      "issuer": "PPGCOM / UFC",
+      "category": "mestrados",
+      "event_type": "Processo seletivo",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://ppgcom.ufc.br/pt/category/noticias",
+      "source_id": "ppgcom",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ppgcom-a9add5030b507c",
+      "title": "Processo Seletivo",
+      "issuer": "PPGCOM / UFC",
+      "category": "mestrados",
+      "event_type": "Processo seletivo",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://ppgcom.ufc.br/pt/category/processo-seletivo",
+      "source_id": "ppgcom",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ppgcom-3a0d052a906c37",
+      "title": "Resultado Preliminar Etapa Prova Oral/Defesa de Projeto – Seleção Turma 2027 (Mestrado e Doutorado)",
+      "issuer": "PPGCOM / UFC",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://ppgcom.ufc.br/pt/resultado-preliminar-etapa-prova-oral-defesa-de-projeto-selecao-turma-2027-mestrado-e-doutorado",
+      "source_id": "ppgcom",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ppgcom-ec9b396e406573",
+      "title": "PRPPG abre inscrições para a Cerimônia de Titulação da Pós-Graduação Stricto Sensu 2026.2",
+      "issuer": "PPGCOM / UFC",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://ppgcom.ufc.br/pt/prppg-abre-inscricoes-para-a-cerimonia-de-titulacao-da-pos-graduacao-stricto-sensu-2026-2",
+      "source_id": "ppgcom",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ppgcom-48a8b5a5a88201",
+      "title": "PRPPG abre inscrições para a Cerimônia de Titulação da Pós-Graduação Stricto Sensu 2026.2",
+      "issuer": "PPGCOM / UFC",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://ppgcom.ufc.br/pt/category/eventos",
+      "source_id": "ppgcom",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ppgcom-dae2bed1832c9a",
+      "title": "DIVULGAÇÃO DO AGENDAMENTO DAS BANCAS DE PROVA ORAL- DEFESA DO PROJETO DE PESQUISA – TURMA 2027",
+      "issuer": "PPGCOM / UFC",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://ppgcom.ufc.br/pt/divulgacao-do-agendamento-das-bancas-de-prova-oral-defesa-do-projeto-de-pesquisa-turma-2027",
+      "source_id": "ppgcom",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ppgcom-1d76025c94502a",
+      "title": "Processo Seletivo – Turmas 2027: Resultado Final Pós-Recursos da Avaliação dos Projetos de Pesquisa (Terceira Etapa)",
+      "issuer": "PPGCOM / UFC",
+      "category": "mestrados",
+      "event_type": "Processo seletivo",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://ppgcom.ufc.br/pt/processo-seletivo-turmas-2027-resultado-final-pos-recursos-da-avaliacao-dos-projetos-de-pesquisa-terceira-etapa",
+      "source_id": "ppgcom",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ppgcom-bf46a3caf6efad",
+      "title": "Aditivo Nº 03 aos editais de Mestrado e Doutorado – Turma 2027",
+      "issuer": "PPGCOM / UFC",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://ppgcom.ufc.br/pt/aditivo-no-03-aos-editais-de-mestrado-e-doutorado-turma-2027",
+      "source_id": "ppgcom",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ppgcom-ed8d8f3e538fb3",
+      "title": "Bolsa de Pesquisa",
+      "issuer": "PPGCOM / UFC",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://ppgcom.ufc.br/pt/category/bolsa-de-pesquisa",
+      "source_id": "ppgcom",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-cb746146d1b950",
+      "title": "- RESULTADO PRELIMINAR - ANÁLISE DAS PROPOSTAS CLASSIFICADAS INOVAFIT/15",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/261.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-6876e00d4d3423",
+      "title": "- RESULTADO - EMPRESAS COM A DOCUMENTAÇÃO INCOMPLETA",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/264.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-7d06be743c776c",
+      "title": "- RESULTADO - EMPRESAS COM A DOCUMENTAÇÃO COMPLETA",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/265.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-1524a4df1d7d06",
+      "title": "- Resultado preliminar da etapa de pré-qualificação",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/161.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-1dddcf1e56bd22",
+      "title": "- Resultado Preliminar da Etapa de Avaliação de Mérito",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/168.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-86ea4bd1574431",
+      "title": "- RESULTADO PROGRAMA INSTITUCIONAL DE BOLSAS DE INICIAÇÃO CIENTÍFICA",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/151.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-c1c2a9b5d45c48",
+      "title": "- Resultado Empresas Pré-Qualificadas PAPPE",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/43.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-38e2bb6af7d3f8",
+      "title": "- Resultado Final - Empresas Aprovadas",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/69.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-3cf8de0c6ad025",
+      "title": "- Resultado Final da Seleção - ALI",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/88.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-a06c77f803bd2c",
+      "title": "- Resultado Final - ALI",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/89.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-b749f850bb7266",
+      "title": "- Lista de Aprovação da Primeira Etapa da Seleção - ALI - Anexo1",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/90.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-0938b024c02e9f",
+      "title": "- Lista de Aprovação da Primeira Etapa da Seleção - ALI - Anexo2",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/91.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-fbfe21906fba27",
+      "title": "- Resultado da análise dos Processos de solicitação de Cotas do ICJR",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/83.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-2d5af13097bfb2",
+      "title": "- ADENDO 01 - PRORROGAÇÃO DA ENTREGA DA DOCUMENTAÇÃO PARA A CONTRATAÇÃO",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Prorrogação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/291.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-6275be16889776",
+      "title": "- RESULTADO - ANÁLISE DOCUMENTAL",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/285.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-dd42bf553286bf",
+      "title": "- RESULTADO PRELIMINAR DA ANÁLISE DE MÉRITO DAS PROPOSTAS",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/288.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-bd7a93c7bf52b6",
+      "title": "- RESULTADO FINAL",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/292.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-b735e7046f511a",
+      "title": "- RESULTADO PRELIMINAR DA ANÁLISE DE MÉRITO INOVAFIT",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/319.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-2a8cec0761c288",
+      "title": "- RESULTADO FINAL DA ANÁLISE DE MÉRITO",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/322.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-9a167419ec89f4",
+      "title": "- RESULTADO FINAL DE TODO PROCESSO SELETIVO",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Processo seletivo",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/327.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-b2967dc3936ee9",
+      "title": "- RESULTADO PRELIMINAR DA ANÁLISE DOCUMENTAL",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/367.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-566541cfe2af15",
+      "title": "- RESULTADO FINAL DA ANÁLISE DOCUMENTAL",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/368.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-1242b5059f9f6b",
+      "title": "- RESULTADO PRELIMINAR DA ANÁLISE DE MÉRITO E APRESENTAÇÃO",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/370.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-864ee2a0bcecef",
+      "title": "- RESULTADO FINAL DA ANÁLISE DE MÉRITO E APRESENTAÇÃO",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/371.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-5b74e63a78b249",
+      "title": "- RESULTADO PRELIMINAR DA ANÁLISE DOCUMENTAL",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/369.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-2c2b2ff02552da",
+      "title": "- RESULTADO FINAL DA ANÁLISE DOCUMENTAL",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/372.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-165cf359b2c3f7",
+      "title": "- RESULTADO PRELIMINAR DA ANÁLISE DE MÉRITO DAS PROPOSTAS",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/375.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-ca40e8aa746b5c",
+      "title": "- RESULTADO DA FASE DE APRESENTAÇÃO DAS PROPOSTAS",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/376.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-efaaa55b412e33",
+      "title": "- RESULTADO FINAL DE TODO O PROCESSO SELETIVO",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Processo seletivo",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/377.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "funcap-86d0b0beaf413e",
+      "title": "- RESULTADO PRELIMINAR DA ANÁLISE DE MÉRITO",
+      "issuer": "FUNCAP / Plataforma Montenegro",
+      "category": "servicos",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://montenegro.funcap.ce.gov.br/sugba/edital/resultados/352.pdf",
+      "source_id": "funcap",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ifce-ce11de3f1f84e0",
+      "title": "Comunicação Social",
+      "issuer": "Instituto Federal do Ceará / IFCE",
+      "category": "seletivos",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. O título indica relação com comunicação ou economia criativa; confirme o objeto, requisitos e prazo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://portal.ifce.edu.br/institucional/comunicacao-social",
+      "source_id": "ifce",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ifce-dd9693b4e53a62",
+      "title": "Memorial do IFCE",
+      "issuer": "Instituto Federal do Ceará / IFCE",
+      "category": "seletivos",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. O título indica relação com comunicação ou economia criativa; confirme o objeto, requisitos e prazo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://portal.ifce.edu.br/institucional/memorial-do-ifce",
+      "source_id": "ifce",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ifce-8ad0664be3b717",
+      "title": "Pós-graduação (Especialização, Mestrado e Doutorado) [Fortaleza] Seleção para o Mestrado em Engenharia de Telecomunicações (PPGET) - Turma 2027.1 - Edital nº 39/2026 Em andamento article Edital: 39/2026 - IFCE/Fortaleza ",
+      "issuer": "Instituto Federal do Ceará / IFCE",
+      "category": "seletivos",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. O título indica relação com comunicação ou economia criativa; confirme o objeto, requisitos e prazo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://portal.ifce.edu.br/campus/fortaleza/estude-no-ifce/selecao-mestrado-engenharia-telecomunicacoes-ppget-turma20271",
+      "source_id": "ifce",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "mapa-ce-560ac9c990d3ea",
+      "title": "1º EDITAL DE CIRCULAÇÃO E INTERCÂMBIO CULTURAL",
+      "issuer": "Mapa Cultural do Ceará / Secult",
+      "category": "servicos",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://mapacultural.secult.ce.gov.br/oportunidade/8086",
+      "source_id": "mapa-ce",
+      "relevance": "a_verificar",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "mapa-ce-f4b92442abcff5",
+      "title": "1º EDITAL DE CHAMAMENTO PÚBLICO PARA REALIZAÇÃO DO PROGRAMA DE ARTE E CULTURA DIGITAL NO CEARÁ",
+      "issuer": "Mapa Cultural do Ceará / Secult",
+      "category": "servicos",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "CE",
+      "summary": "Publicação localizada em uma fonte oficial. O título indica relação com comunicação ou economia criativa; confirme o objeto, requisitos e prazo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://mapacultural.secult.ce.gov.br/oportunidade/8263",
+      "source_id": "mapa-ce",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufjf-c28060d1cae204",
+      "title": "Seleção Mestrado 2027",
+      "issuer": "PPGCOM / UFJF",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MG",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www2.ufjf.br/ppgcom/selecao/mestrado-2027",
+      "source_id": "ufjf",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufjf-3db3ce68f9bc60",
+      "title": "Seleção Doutorado 2027",
+      "issuer": "PPGCOM / UFJF",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MG",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www2.ufjf.br/ppgcom/selecao/doutorado-2027",
+      "source_id": "ufjf",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufjf-2adf54b56ff4ce",
+      "title": "Seleções Anteriores",
+      "issuer": "PPGCOM / UFJF",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MG",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www2.ufjf.br/ppgcom/selecao/selecoes-anteriores",
+      "source_id": "ufjf",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-bb5ca02b424ae4",
+      "title": "Edital para Aluno Regular",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/edital-para-aluno-regular",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-c3b08feecb9c22",
+      "title": "Edital para Aluno Especial",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/edital-para-aluno-especial",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-abb8053066dd95",
+      "title": "Editais de Bolsas",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/editais-de-bolsas",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-7f0ba3ff4f75bf",
+      "title": "RESULTADOS DAS ETAPAS – SELEÇÃO DE MESTRADO TURMA 2027",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/11/13/selecao-de-mestrado-turma-2027-ppgcom-ufma-imperatriz",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-6cacc12cdd7c69",
+      "title": "RESULTADOS DAS ETAPAS – SELEÇÃO DE MESTRADO TURMA 2027",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/11/12/relacao-de-bolsistas-do-ppgcom-ufma",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-070d3c60eb71ae",
+      "title": "PPGCOM/UFMA abre seleção para bolsa de apoio administrativo",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/09/14/ppgcom-ufma-abre-selecao-para-bolsa-de-apoio-administrativo",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-0fb2359e5a018a",
+      "title": "PPGCOM/UFMA abre seleção para bolsa de apoio administrativo",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/08/13/selecao-de-aluno-especial-mestrado-2026-2-ppgcom-ufma-imperatriz",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-87a31175523abd",
+      "title": "SELEÇÃO DE ALUNO ESPECIAL MESTRADO 2026.2 PPGCOM UFMA IMPERATRIZ",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/08/10/ppgcom-ufma-recebe-juremir-machado-para-aula-inaugural-do-semestre-2026-2",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-9ad14e1373e9f4",
+      "title": "PPGCOM publica Retificação nº 01 do Edital de Seleção para a turma de 2027",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Retificação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/07/13/ppgcom-publica-retificacao-no-01-do-edital-de-selecao-para-a-turma-de-2027",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-a287b1f9f98f88",
+      "title": "PPGCOM publica Retificação nº 01 do Edital de Seleção para a turma de 2027",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Retificação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/07/12/inscricoes-abertas-para-oficinas-preparatorias-da-selecao-2027-do-mestrado-em-comunicacao",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-c7575df7d8ea83",
+      "title": "Inscrições abertas para oficinas preparatórias da seleção 2027 do Mestrado em Comunicação",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. O título indica relação com comunicação ou economia criativa; confirme o objeto, requisitos e prazo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/07/01/comecam-as-inscricoes-para-o-mestrado-em-comunicacao-da-ufma",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-e3914ffffc2543",
+      "title": "Começam as inscrições para o Mestrado em Comunicação da UFMA",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. O título indica relação com comunicação ou economia criativa; confirme o objeto, requisitos e prazo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/05/18/resultado-do-edital-de-bolsistas-2026-1-2",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-b7451b91803dcf",
+      "title": "RESULTADO DO EDITAL DE BOLSISTAS 2026.1",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/05/11/edital-de-bolsas-2026-1",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-a1e9cfd817051d",
+      "title": "EDITAL DE BOLSAS 2026.1",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/03/20/resultado-do-edital-de-bolsistas-2026-1",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-e12efeaa8f520c",
+      "title": "RESULTADO DO EDITAL DE BOLSISTAS 2026.1",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/03/17/edital-de-bolsistas-2026-1",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-6a99a4737c5489",
+      "title": "EDITAL DE BOLSISTAS 2026.1",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/02/26/disicplinas-e-matriculas-semestre-2026-1",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-f8386ecb4365be",
+      "title": "SELEÇÃO DE ALUNO ESPECIAL MESTRADO ANO DE 2026 PPGCOM UFMA IMPERATRIZ",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2026/01/06/selecao-de-aluno-especial-mestrado-ano-de-2026-ppgcom-ufma-imperatriz",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-dae500bcefbfd5",
+      "title": "SELEÇÃO DE ALUNO ESPECIAL MESTRADO ANO DE 2026 PPGCOM UFMA IMPERATRIZ",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2025/11/09/submissoes-de-trabalhos-para-o-simcom-2025-seguem-ate-15-de-novembro",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-28f205248c1330",
+      "title": "SELEÇÃO DE MESTRADO TURMA 2026 PPGCOM UFMA IMPERATRIZ",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2025/07/29/selecao-de-mestrado-turma-2026-ppgcom-ufma-imperatriz-2",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-087eded6ac20ac",
+      "title": "SELEÇÃO DE MESTRADO TURMA 2026 PPGCOM UFMA IMPERATRIZ",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2025/07/29/selecao-de-mestrado-turma-2025-ppgcom-ufma-imperatriz",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-84523839feb870",
+      "title": "EDITAL PARA PÓS-DOUTORADO",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2025/01/03/edital-para-pos-doutorado",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-635c43393ee40c",
+      "title": "EDITAL PARA PÓS-DOUTORADO",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2025/01/03/edital-de-bolsas",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-a792433b3e501b",
+      "title": "Edital PPGCOM N. 04/2024 – Eleição para a Coordenação (2024-2026)",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2024/10/03/edital-ppgcom-n-04-2024-eleicao-para-a-coordenacao-2024-2026",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-709f123d64a3a9",
+      "title": "INCT-DSI abre chamada para seleção de pós-doutorado júnior",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2023/04/25/inct-dsi-abre-chamada-para-selecao-de-pos-doutorado-junior",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-d17feeb6cde72e",
+      "title": "A representação das mulheres nos portais de notícias amazônicos é tema de dissertação de mestrado",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2023/04/25/a-representacao-das-mulheres-nos-portais-de-noticias-amazonicos-e-tema-de-dissertacao-de-mestrado",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-cacbedd18e5613",
+      "title": "Inscrições abertas para o XVI Simpósio de Comunicação da Região Tocantina",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. O título indica relação com comunicação ou economia criativa; confirme o objeto, requisitos e prazo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2022/10/20/inscricoes-abertas-para-o-xvi-simposio-de-comunicacao-da-regiao-tocantina",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-206c7a6cc52595",
+      "title": "Egressa do PPGCOM ganha bolsa de estudos no exterior",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2022/08/25/egressa-do-ppgcom-ganha-bolsa-de-estudos-no-exterior",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-4dbde2365b3b63",
+      "title": "[RETIFICADO] Datas importantes para discentes novos, regulares e especiais",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Retificação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2022/01/26/datas-importantes-para-discentes-novos-regulares-e-especiais",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-432815279a5642",
+      "title": "Discentes do PPGCOM defendem as dissertações de mestrado",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2021/06/24/alunos-do-ppgcom-defendem-as-dissertacoes-de-mestrado",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufma-0615ca540d3c42",
+      "title": "Resultado final – Seleção de Bolsistas",
+      "issuer": "PPGCOM / UFMA",
+      "category": "mestrados",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "MA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://www.ppgcom.ufma.br/2021/06/17/resultado-final-selecao-de-bolsistas",
+      "source_id": "ufma",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-8e08aed80ebcb6",
+      "title": "Mestrado e Doutorado",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://poscom.ufba.br/mestrado-e-doutorado",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-74b5083618a4d5",
+      "title": "Inscrições homologadas – Mestrado",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://poscom.ufba.br/wp-content/uploads/2026/10/Inscricoes-Homologadas-Mestrado-2027.docx-1.pdf",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-0279a32b13d1be",
+      "title": "Inscrições homologadas – Doutorado",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://poscom.ufba.br/wp-content/uploads/2026/10/Inscricoes-Homologadas-Doutorado-2027.docx-2.pdf",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-5acfddf8f461ea",
+      "title": "Resultado das Inscrições – Seleção Regular Mestrado 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://poscom.ufba.br/wp-content/uploads/2026/10/Inscricoes-recebidas-Mestrado-2027.docx.pdf",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-a73e817785cb41",
+      "title": "Resultado das Inscrições – Seleção Regular Doutorado 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Resultado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://poscom.ufba.br/wp-content/uploads/2026/10/Inscricoes-Recebidas-Doutorado-2027-analise-documental-atualizada.docx.pdf",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-6c93c068646cd9",
+      "title": "ACESSE O EDITAL (PDF)",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://poscom.ufba.br/wp-content/uploads/2026/09/Edital-Selecao-Regular-2027-Poscom.docx-1-1.pdf",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-95fc9ffc178629",
+      "title": "Aluno Regular 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/processos-seletivos/selecao-2024",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-f7ea8b8a1e7d80",
+      "title": "Aluno Regular 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/selecao-aluno-regular/aluno-regular-2023",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-1dfa2c7d8aac94",
+      "title": "Aluno Regular 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/selecao-aluno-regular/aluno-regular-2022",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-6b87c168ae63fd",
+      "title": "Aluno Regular 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/selecao-aluno-regular/aluno-regular-2021",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-28771276eb9570",
+      "title": "Aluno Regular 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/selecao-aluno-regular/aluno-regular-2020",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-8a20fca96b84de",
+      "title": "Aluno Regular 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/selecao-aluno-regular/aluno-regular-2019",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-23d6115c3b3988",
+      "title": "Aluno Regular 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/selecao-aluno-regular/aluno-regular-2018",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-1028b815430f23",
+      "title": "Aluno Regular 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/selecao-aluno-regular/aluno-regular-2017",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-b13b0fd638cea8",
+      "title": "Aluno Regular 2027",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Publicação",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/selecao-aluno-regular/aluno-regular-2016",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-fb79a24e79a87e",
+      "title": "Processo seletivo",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Processo seletivo",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/selecao-aluno-regular",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufba-d1e769c0438261",
+      "title": "Mestrado e Doutorado",
+      "issuer": "Póscom / UFBA",
+      "category": "mestrados",
+      "event_type": "Mestrado",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "BA",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "http://www.poscom.ufba.br/mestrado-e-doutorado",
+      "source_id": "ufba",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufrn-78e51d4f555259",
+      "title": "processo seletivo.jsf",
+      "issuer": "PPGEM / UFRN",
+      "category": "mestrados",
+      "event_type": "Processo seletivo",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "RN",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://sigaa.ufrn.br/sigaa/public/programa/processo_seletivo.jsf?lc=en_US&id=4893¬icia=",
+      "source_id": "ufrn",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufrn-5298f1e1251972",
+      "title": "processo seletivo.jsf",
+      "issuer": "PPGEM / UFRN",
+      "category": "mestrados",
+      "event_type": "Processo seletivo",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "RN",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://sigaa.ufrn.br/sigaa/public/programa/processo_seletivo.jsf?lc=es_ES&id=4893¬icia=",
+      "source_id": "ufrn",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
+    },
+    {
+      "id": "ufrn-205cec381dcb25",
+      "title": "processo seletivo.jsf",
+      "issuer": "PPGEM / UFRN",
+      "category": "mestrados",
+      "event_type": "Processo seletivo",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Consultar edital oficial",
+      "location": "RN",
+      "summary": "Publicação localizada em uma fonte oficial. Verifique o objeto e os critérios de participação no documento completo.",
+      "status": "Prazo não verificado",
+      "official_url": "https://sigaa.ufrn.br/sigaa/public/programa/processo_seletivo.jsf?lc=fr_FR&id=4893¬icia=",
+      "source_id": "ufrn",
+      "relevance": "alta",
+      "confirmed": [
+        "título da publicação",
+        "link da fonte"
+      ],
+      "needs_verification": [
+        "objeto",
+        "requisitos",
+        "remuneração",
+        "prazo",
+        "inscrições"
+      ],
+      "first_seen_at": "2026-11-16T23:37:42+00:00",
+      "last_seen_at": "2026-11-16T23:37:42+00:00"
     }
   ]
 }

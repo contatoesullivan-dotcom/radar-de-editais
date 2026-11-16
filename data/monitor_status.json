@@ -1,5 +1,73 @@
 {
-  "last_run_at": null,
-  "note": "Coleta ainda não executada",
-  "sources": {}
+  "last_run_at": "2026-11-16T23:37:42+00:00",
+  "overall": "parcial",
+  "sources": {
+    "agropolos": {
+      "state": "ok",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "10 publicações reconhecidas; 9 novas"
+    },
+    "ppgcom": {
+      "state": "ok",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "11 publicações reconhecidas; 9 novas"
+    },
+    "funcap": {
+      "state": "ok",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "30 publicações reconhecidas; 30 novas"
+    },
+    "ifce": {
+      "state": "ok",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "3 publicações reconhecidas; 3 novas"
+    },
+    "mapa-ce": {
+      "state": "ok",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "2 publicações reconhecidas; 2 novas"
+    },
+    "ufjf": {
+      "state": "ok",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "3 publicações reconhecidas; 3 novas"
+    },
+    "ufma": {
+      "state": "ok",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "30 publicações reconhecidas; 30 novas"
+    },
+    "ufpe": {
+      "state": "falhou",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    "ufmg": {
+      "state": "falhou",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+    },
+    "ufba": {
+      "state": "ok",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "17 publicações reconhecidas; 17 novas"
+    },
+    "ufrn": {
+      "state": "ok",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "3 publicações reconhecidas; 3 novas"
+    },
+    "fortaleza-tce": {
+      "state": "atencao",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "Página acessível, mas nenhum link compatível foi reconhecido; conferir estrutura"
+    },
+    "pncp": {
+      "state": "falhou",
+      "checked_at": "2026-11-16T23:37:42+00:00",
+      "detail": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  },
+  "new_count": 106,
+  "note": "A coleta identifica títulos e links; não confirma prazos, valores nem inscrições."
 }

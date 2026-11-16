@@ -3,16 +3,176 @@
     "id": "agropolos",
     "name": "Instituto Agropolos do Ceará",
     "url": "https://institutoagropolos.org.br/editais/",
-    "subtitle": "Credenciamentos e editais",
+    "subtitle": "Credenciamentos, contratações e processos seletivos",
     "active": true,
-    "category_hint": "servicos"
+    "category_hint": "servicos",
+    "kind": "agropolos",
+    "region": "CE",
+    "priority": "alta"
   },
   {
     "id": "ppgcom",
-    "name": "PPGCOM — Universidade Federal do Ceará",
+    "name": "PPGCOM / UFC",
     "url": "https://ppgcom.ufc.br/pt/",
-    "subtitle": "Mestrados e processos seletivos",
+    "subtitle": "Mestrado em Comunicação e seleção 2027",
     "active": true,
-    "category_hint": "mestrados"
+    "category_hint": "mestrados",
+    "kind": "academico",
+    "region": "CE",
+    "priority": "alta"
+  },
+  {
+    "id": "funcap",
+    "name": "FUNCAP / Plataforma Montenegro",
+    "url": "https://montenegro.funcap.ce.gov.br/sugba/editais/index_montenegro.php",
+    "subtitle": "Editais de pesquisa, inovação e bolsas no Ceará",
+    "active": true,
+    "category_hint": "servicos",
+    "kind": "editais",
+    "region": "CE",
+    "priority": "media"
+  },
+  {
+    "id": "ifce",
+    "name": "Instituto Federal do Ceará / IFCE",
+    "url": "https://portal.ifce.edu.br/processos-seletivos/buscar/",
+    "subtitle": "Trabalho, estágios, chamadas e seleções públicas",
+    "active": true,
+    "category_hint": "seletivos",
+    "kind": "trabalho",
+    "region": "CE",
+    "priority": "media"
+  },
+  {
+    "id": "mapa-ce",
+    "name": "Mapa Cultural do Ceará / Secult",
+    "url": "https://mapacultural.secult.ce.gov.br/projeto/7111/",
+    "subtitle": "Fomento, design, fotografia, audiovisual e projetos criativos; recorte PNAB",
+    "active": true,
+    "category_hint": "servicos",
+    "kind": "cultural",
+    "region": "CE",
+    "priority": "alta"
+  },
+  {
+    "id": "ufjf",
+    "name": "PPGCOM / UFJF",
+    "url": "https://www2.ufjf.br/ppgcom/selecao/",
+    "subtitle": "Editais de seleção para mestrado e doutorado",
+    "active": true,
+    "category_hint": "mestrados",
+    "kind": "academico",
+    "region": "MG",
+    "priority": "media"
+  },
+  {
+    "id": "ufma",
+    "name": "PPGCOM / UFMA",
+    "url": "https://www.ppgcom.ufma.br/noticias/",
+    "subtitle": "Seleção de mestrado, retificações e bolsas",
+    "active": true,
+    "category_hint": "mestrados",
+    "kind": "academico",
+    "region": "MA",
+    "priority": "media"
+  },
+  {
+    "id": "ufpe",
+    "name": "PPGCOM / UFPE",
+    "url": "https://www.ufpe.br/ppgcom",
+    "subtitle": "Seleção para mestrado em Comunicação",
+    "active": true,
+    "category_hint": "mestrados",
+    "kind": "academico",
+    "region": "PE",
+    "priority": "media"
+  },
+  {
+    "id": "ufmg",
+    "name": "PPGCOM / UFMG",
+    "url": "https://ppgcom.fafich.ufmg.br/selecao.php",
+    "subtitle": "Editais e retificações do processo seletivo",
+    "active": true,
+    "category_hint": "mestrados",
+    "kind": "academico",
+    "region": "MG",
+    "priority": "media"
+  },
+  {
+    "id": "ufba",
+    "name": "Póscom / UFBA",
+    "url": "https://poscom.ufba.br/alunoregular2027",
+    "subtitle": "Mestrado em Comunicação e Cultura Contemporâneas",
+    "active": true,
+    "category_hint": "mestrados",
+    "kind": "academico",
+    "region": "BA",
+    "priority": "media"
+  },
+  {
+    "id": "ufrn",
+    "name": "PPGEM / UFRN",
+    "url": "https://sigaa.ufrn.br/sigaa/public/programa/processo_seletivo.jsf?id=4893&lc=pt_BR",
+    "subtitle": "Mestrado em Estudos da Mídia",
+    "active": true,
+    "category_hint": "mestrados",
+    "kind": "academico",
+    "region": "RN",
+    "priority": "media"
+  },
+  {
+    "id": "fortaleza-tce",
+    "name": "TCE Ceará / Licitações municipais",
+    "url": "https://municipios-licitacoes.tce.ce.gov.br/index.php/licitacao/abertas",
+    "subtitle": "Licitações municipais; foco em comunicação e serviços criativos",
+    "active": true,
+    "category_hint": "servicos",
+    "kind": "licitacoes",
+    "region": "CE",
+    "priority": "alta"
+  },
+  {
+    "id": "pncp",
+    "name": "Portal Nacional de Contratações Públicas / PNCP",
+    "url": "https://pncp.gov.br/api/consulta/swagger-ui/index.html",
+    "subtitle": "API nacional para contratações; integração estruturada pendente",
+    "active": false,
+    "category_hint": "servicos",
+    "kind": "api_pendente",
+    "region": "Brasil",
+    "priority": "alta"
+  },
+  {
+    "id": "comprasgov",
+    "name": "Compras.gov.br",
+    "url": "https://www.gov.br/compras/pt-br",
+    "subtitle": "Contratações federais; integração estruturada pendente",
+    "active": false,
+    "category_hint": "servicos",
+    "kind": "api_pendente",
+    "region": "Brasil",
+    "priority": "media"
+  },
+  {
+    "id": "fortaleza",
+    "name": "Prefeitura de Fortaleza / Licitações",
+    "url": "https://transparencia.fortaleza.ce.gov.br/index.php/licitacoes",
+    "subtitle": "Referência oficial para compras e contratações municipais",
+    "active": false,
+    "category_hint": "servicos",
+    "kind": "referencia",
+    "region": "CE",
+    "priority": "alta"
+  },
+  {
+    "id": "progep",
+    "name": "UFC / PROGEP",
+    "url": "https://progep.ufc.br/pt/concursos-e-processo-seletivo/editais/",
+    "subtitle": "Concursos e processos seletivos para profissionais",
+    "active": false,
+    "category_hint": "seletivos",
+    "kind": "referencia",
+    "region": "CE",
+    "priority": "media"
   }
 ]

@@ -34,5 +34,5 @@ jobs:
           git add data/opportunities.json data/monitor_status.json
           if ! git diff --cached --quiet; then
             git commit -m "Atualizar dados do Radar"
-            git push
+            git push origin HEAD:main
           fi

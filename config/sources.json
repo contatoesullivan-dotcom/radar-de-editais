@@ -1,0 +1,18 @@
+[
+  {
+    "id": "agropolos",
+    "name": "Instituto Agropolos do Ceará",
+    "url": "https://institutoagropolos.org.br/editais/",
+    "subtitle": "Credenciamentos e editais",
+    "active": true,
+    "category_hint": "servicos"
+  },
+  {
+    "id": "ppgcom",
+    "name": "PPGCOM — Universidade Federal do Ceará",
+    "url": "https://ppgcom.ufc.br/pt/",
+    "subtitle": "Mestrados e processos seletivos",
+    "active": true,
+    "category_hint": "mestrados"
+  }
+]

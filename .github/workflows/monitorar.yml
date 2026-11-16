@@ -1,8 +1,17 @@
 name: Atualizar Radar de Editais
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'config/sources.json'
+      - '.github/workflows/monitorar.yml'
   schedule:
     - cron: '0 11,22 * * *'
   workflow_dispatch:
+concurrency:
+  group: radar-monitor
+  cancel-in-progress: false
 permissions:
   contents: write
 jobs:

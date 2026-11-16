@@ -114,7 +114,7 @@ def write_json(path, value):
 def source_title(label, heading, link):
     label = " ".join(html.unescape(label).split()).strip()
     heading = " ".join(html.unescape(heading).split()).strip()
-    if GENERIC.match(normalize(label)) or len(label) < 10:
+    if GENERIC.match(re.sub(r"[^a-z0-9 ]+", " ", normalize(label)).strip()) or len(label) < 10:
         if 15 <= len(heading) <= 220 and not STOP.match(normalize(heading)):
             return heading
         slug = unquote(urlparse(link).path.rsplit("/", 1)[-1])

@@ -1,32 +1,66 @@
 # Radar de Editais
 
-Aplicativo web instalável (PWA) para encontrar publicações do Instituto Agropolos e PPGCOM/UFC, acompanhar oportunidades de comunicação, processos seletivos e mestrados.
+Aplicativo web instalável (PWA) para acompanhar oportunidades de serviços de comunicação, seleções profissionais e mestrados em Comunicação.
 
-## Publicação no GitHub Pages
+**Acesse:** https://contatoesullivan-dotcom.github.io/radar-de-editais/
 
-1. Abra [Settings → Pages](https://github.com/contatoesullivan-dotcom/radar-de-editais/settings/pages).
-2. Em **Build and deployment**, selecione **Deploy from a branch**.
-3. Em **Branch**, selecione **main** e **/(root)**; clique em **Save**.
-4. Aguarde o GitHub indicar **Your site is live at...**. O endereço previsto, **somente depois de a publicação ser concluída**, é https://contatoesullivan-dotcom.github.io/radar-de-editais/.
-5. No Safari do iPhone, abra o endereço e use **Compartilhar → Adicionar à Tela de Início**.
+## Fontes
 
-## Coleta de editais
+Em 16/11/2026 foram cadastradas **16 fontes oficiais**; **13 com coleta programada ou experimental** e 3 referências com integração pendente.
 
-O fluxo [Atualizar Radar de Editais](https://github.com/contatoesullivan-dotcom/radar-de-editais/actions) executa verificações às 8h e 19h, horário de Fortaleza (11h e 22h UTC). É possível iniciá-lo manualmente em **Actions → Atualizar Radar de Editais → Run workflow**.
+| Eixo | Fontes |
+| --- | --- |
+| Ceará: serviços, pesquisa e cultura | Agropolos, FUNCAP, Mapa Cultural do Ceará, TCE Ceará (licitações municipais) |
+| Ceará: seleções | IFCE |
+| Comunicação: mestrados | PPGCOM/UFC, UFJF, UFMA, UFPE, UFMG, Póscom/UFBA e PPGEM/UFRN |
+| API de contratações | PNCP — consulta experimental de pregões, concorrências e dispensas no Ceará |
+| Em preparação | Compras.gov.br, licitações da Prefeitura de Fortaleza e UFC/PROGEP |
 
-**Importante:** a coleta não foi validada com as páginas oficiais em produção. Ela identifica links e títulos, **não confirma** inscrição aberta, remuneração, documentos, requisitos nem datas. Erros de acesso ou mudanças do layout são registrados como **falha** na aba Fontes. Dados iniciais são referências, não disponibilidade confirmada.
+As fontes em preparação são exibidas no aplicativo para consulta manual, mas **não** são lidas pelo coletor. As fontes ativas podem retornar `falhou` ou `atenção` se houver bloqueio, página dinâmica ou mudança de layout. **Estar cadastrada não é garantia de extração funcional.**
 
-Não há envio de e-mail ou push configurado nesta versão. Favoritos e preferências ficam somente no dispositivo e não sincronizam entre aparelhos. Não armazene segredos ou dados pessoais no repositório público.
+### Como o coletor funciona
 
-## Estrutura
+- `scripts/monitor.py` analisa links e títulos em HTML das fontes cadastradas.
+- `scripts/pncp.py` consulta a API oficial de propostas do PNCP, limitada a três modalidades e às primeiras páginas de resultados do Ceará; **não é uma busca nacional exaustiva**.
+- `scripts/test_monitor.py` testa a lógica de extração com exemplos controlados; **esses testes não comprovam acesso real às instituições**.
+- `data/opportunities.json` reúne as oportunidades, com identificação pela URL oficial.
+- `data/monitor_status.json` distingue fontes verificadas, fontes sem links reconhecidos e fontes com falha de acesso.
 
-- `index.html`: interface com busca, filtros, favoritos e detalhes
-- `manifest.webmanifest`, `service-worker.js`, `assets/icon.svg`: instalação PWA e cache
-- `config/sources.json`: fontes públicas monitoradas
-- `scripts/monitor.py`: verificação conservadora das fontes
-- `data/`: registros iniciais e situação da coleta
-- `.github/workflows/monitorar.yml`: agendamento automático
+**Importante:** fora da API PNCP, o coletor encontra títulos e links. Ele **não lê automaticamente o inteiro teor de todos os PDFs** e não confirma remuneração, requisitos ou prazo. O sistema não deve chamar um edital de aberto quando essa condição não estiver comprovada.
 
-### Limitações
+## Atualização automática
 
-O aplicativo é uma **primeira versão em implantação**. A coleta deve ser auditada depois de rodar no GitHub. Não consulte a interface para decidir sobre inscrições sem abrir a página oficial.
+O fluxo [Atualizar Radar de Editais](https://github.com/contatoesullivan-dotcom/radar-de-editais/actions/workflows/monitorar.yml) está configurado para executar às **8h e 19h, horário de Fortaleza** (11h e 22h UTC), e também ao atualizar os scripts e a lista de fontes. O GitHub pode atrasar execuções agendadas, que não são instantâneas.
+
+Após a coleta, o bot salva o JSON no repositório. O aplicativo tenta buscar esses JSONs do `raw.githubusercontent.com` a cada abertura, com fallback para arquivos servidos pelo GitHub Pages. Isso é importante porque commits feitos com `GITHUB_TOKEN` não provocam automaticamente nova publicação do GitHub Pages.
+
+**Primeiro teste:** abra o fluxo no link acima e selecione `Run workflow` (Executar fluxo). Confira os passos de testes, consulta e gravação dos dados; depois visite a aba **Fontes monitoradas** no aplicativo.
+
+Para testar a extração sem consultar sites:
+
+```bash
+python -m unittest discover -s scripts -p 'test_*.py' -v
+```
+
+Para executar uma coleta local (requer internet):
+
+```bash
+python scripts/monitor.py
+```
+
+## Instalação no iPhone
+
+Abra o link do aplicativo no Safari, toque em **Compartilhar** e escolha **Adicionar à Tela de Início**. No computador, quando o navegador permitir, use a opção **Instalar**.
+
+## Notificações
+
+**Ainda não implementadas.** A tela de alertas armazena apenas preferências locais e não envia e-mails ou push. Não cadastre senhas e tokens no repositório público. A próxima etapa é conectar um provedor de e-mail ou push e testar entregas.
+
+## Limitações e transparência
+
+- Dados de referência iniciais não são inscrições abertas verificadas.
+- Publicações antigas podem aparecer na primeira varredura; confira datas no documento oficial.
+- O status de cada fonte é observado somente depois de uma coleta real.
+- Os favoritos ficam salvos apenas no dispositivo.
+- A busca do PNCP cobre o Ceará no primeiro recorte experimental; uma consulta exaustiva nacional exige paginação e filtros adicionais.
+- O aplicativo está em desenvolvimento; use os links oficiais antes de tomar decisões de inscrição.

@@ -134,11 +134,11 @@
   {
     "id": "pncp",
     "name": "Portal Nacional de Contratações Públicas / PNCP",
-    "url": "https://pncp.gov.br/api/consulta/swagger-ui/index.html",
-    "subtitle": "API nacional para contratações; integração estruturada pendente",
-    "active": false,
+    "url": "https://pncp.gov.br/app/editais",
+    "subtitle": "Consulta experimental da API oficial; foco em comunicação no Ceará",
+    "active": true,
     "category_hint": "servicos",
-    "kind": "api_pendente",
+    "kind": "pncp_api",
     "region": "Brasil",
     "priority": "alta"
   },

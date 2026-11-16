@@ -1,0 +1,19 @@
+{
+  "name": "Radar de Editais",
+  "short_name": "Radar",
+  "description": "Oportunidades de comunicação, processos seletivos e mestrados",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8fc",
+  "theme_color": "#30114d",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

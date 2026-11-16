@@ -74,5 +74,38 @@ class MonitorTests(unittest.TestCase):
         )
 
 
+    def test_pncp_filters_communication_and_keeps_official_link(self):
+        from pncp import collect_pncp
+        mock_data = {
+            "totalPaginas": 1,
+            "data": [
+                {
+                    "objetoCompra": "Serviços especializados de assessoria de comunicação",
+                    "orgaoEntidade": {"cnpj": "12345678000199", "razaoSocial": "Órgão estadual"},
+                    "anoCompra": 2026, "sequencialCompra": 15,
+                    "numeroControlePNCP": "12345678000199-1-15/2026",
+                    "dataPublicacaoPncp": "2026-11-16T10:00:00",
+                    "dataEncerramentoProposta": "2026-11-24T18:00:00",
+                    "valorTotalEstimado": 17000,
+                },
+                {
+                    "objetoCompra": "Compra de papel para impressora e cartuchos",
+                    "orgaoEntidade": {"cnpj": "12345678000199", "razaoSocial": "Órgão estadual"},
+                    "anoCompra": 2026, "sequencialCompra": 16,
+                }
+            ]
+        }
+        found = collect_pncp(
+            {"id": "pncp"}, "2026-11-16T00:00:00+00:00",
+            monitor.normalize, monitor.COMMS, fetch_json=lambda url: mock_data
+        )
+        self.assertEqual(len(found), 1)
+        self.assertEqual(found[0]["deadline_at"], "2026-11-24")
+        self.assertEqual(
+            found[0]["official_url"],
+            "https://pncp.gov.br/app/editais/12345678000199/2026/15"
+        )
+
+
 if __name__ == "__main__":
     unittest.main()

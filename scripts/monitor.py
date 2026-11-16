@@ -15,6 +15,7 @@ from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urldefrag, urljoin, urlparse
+from pncp import collect_pncp
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data/opportunities.json"
@@ -257,7 +258,8 @@ def run():
         if not source.get("active"):
             continue
         try:
-            found = collect(source)
+            found = (collect_pncp(source, NOW, normalize, COMMS)
+                     if source.get("kind") == "pncp_api" else collect(source))
             added = 0
             for item in found:
                 key = item["official_url"].rstrip("/")
@@ -268,7 +270,7 @@ def run():
                     by_url[key] = item
                     added += 1
             status["new_count"] += added
-            if found:
+            if found or source.get("kind") == "pncp_api":
                 successes += 1
                 source_status = "ok"
                 detail = "%d publicações reconhecidas; %d novas" % (len(found), added)

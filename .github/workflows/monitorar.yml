@@ -1,0 +1,26 @@
+name: Atualizar Radar de Editais
+on:
+  schedule:
+    - cron: '0 11,22 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  monitorar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Consultar fontes oficiais
+        run: python scripts/monitor.py
+      - name: Salvar dados e status
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/opportunities.json data/monitor_status.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualizar dados do Radar"
+            git push
+          fi

@@ -1,6 +1,151 @@
 {
   "generated_at": null,
   "data_type": "referencias_iniciais",
-  "disclaimer": "Dados de referência não equivalem a inscrições abertas; confirme diretamente na fonte oficial.",
-  "items": []
+  "disclaimer": "Registros de páginas oficiais para demonstrar o aplicativo. Prazos e requisitos não verificados não significam inscrições abertas.",
+  "items": [
+    {
+      "id": "agropolos-018-2026",
+      "title": "Edital de Credenciamento nº 018/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Edital",
+      "published_at": "2026-11-09",
+      "deadline_at": null,
+      "participant": "Verificar edital",
+      "location": "Ceará",
+      "summary": "Credenciamento publicado pelo Instituto Agropolos. Consulte o edital oficial e seus anexos para confirmar o objeto, requisitos, documentação e prazo vigente.",
+      "status": "Prazo a confirmar",
+      "official_url": "https://institutoagropolos.org.br/editais/edital-de-credenciamento-no-018-2026/",
+      "source_id": "agropolos",
+      "confirmed": [
+        "título",
+        "instituição",
+        "página oficial"
+      ],
+      "needs_verification": [
+        "objeto completo",
+        "remuneração",
+        "requisitos",
+        "prazo"
+      ]
+    },
+    {
+      "id": "agropolos-019-2026",
+      "title": "Edital de Credenciamento nº 019/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Edital",
+      "published_at": null,
+      "deadline_at": null,
+      "participant": "Verificar edital",
+      "location": "Ceará",
+      "summary": "Publicação identificada no arquivo oficial de editais. O objeto da contratação e a elegibilidade ainda precisam ser conferidos no documento integral.",
+      "status": "Em triagem",
+      "official_url": "https://institutoagropolos.org.br/editais/",
+      "source_id": "agropolos",
+      "confirmed": [
+        "título",
+        "instituição",
+        "arquivo oficial"
+      ],
+      "needs_verification": [
+        "data de publicação",
+        "objeto",
+        "remuneração",
+        "requisitos",
+        "prazo"
+      ]
+    },
+    {
+      "id": "agropolos-015-2026",
+      "title": "Edital de Credenciamento nº 015/2026",
+      "issuer": "Instituto Agropolos do Ceará",
+      "category": "servicos",
+      "event_type": "Edital",
+      "published_at": "2026-11-06",
+      "deadline_at": null,
+      "participant": "Verificar edital",
+      "location": "Ceará",
+      "summary": "Credenciamento disponível no arquivo oficial. Compatibilidade com atividades de comunicação ainda precisa ser avaliada.",
+      "status": "Em triagem",
+      "official_url": "https://institutoagropolos.org.br/editais/",
+      "source_id": "agropolos",
+      "confirmed": [
+        "título",
+        "instituição"
+      ],
+      "needs_verification": [
+        "objeto completo",
+        "requisitos",
+        "prazo"
+      ]
+    },
+    {
+      "id": "ufc-resultado-oral-2027",
+      "title": "Resultado pós-recursos da prova oral — Mestrado 2027",
+      "issuer": "PPGCOM / Universidade Federal do Ceará",
+      "category": "mestrados",
+      "event_type": "Atualização",
+      "published_at": "2026-11-16",
+      "deadline_at": null,
+      "participant": "Candidatos inscritos",
+      "location": "Fortaleza, CE",
+      "summary": "O PPGCOM/UFC publicou o resultado final pós-recursos da etapa de prova oral e defesa dos projetos da seleção para a turma 2027. Trata-se de atualização de seleção já iniciada, não de novo período de inscrição.",
+      "status": "Seleção em andamento",
+      "official_url": "https://ppgcom.ufc.br/pt/processo-seletivo-turmas-2027-resultado-final-pos-recursos-etapa-prova-oral-defesa-de-projeto-quarta-etapa/",
+      "source_id": "ppgcom",
+      "confirmed": [
+        "título",
+        "data",
+        "etapa",
+        "página oficial"
+      ],
+      "needs_verification": []
+    },
+    {
+      "id": "ufc-aditivo04-2027",
+      "title": "Termo Aditivo nº 04 — Seleção PPGCOM 2027",
+      "issuer": "PPGCOM / Universidade Federal do Ceará",
+      "category": "mestrados",
+      "event_type": "Retificação",
+      "published_at": "2026-11-04",
+      "deadline_at": null,
+      "participant": "Candidatos inscritos",
+      "location": "Fortaleza, CE",
+      "summary": "Aditivo do cronograma das etapas de prova oral, prova de títulos e resultado final dos processos seletivos de Mestrado e Doutorado 2027.",
+      "status": "Cronograma retificado",
+      "official_url": "https://ppgcom.ufc.br/pt/aditivo-no-04-aos-editais-de-mestrado-e-doutorado-turma-2027/",
+      "source_id": "ppgcom",
+      "confirmed": [
+        "título",
+        "data",
+        "página oficial"
+      ],
+      "needs_verification": []
+    },
+    {
+      "id": "ufc-edital-mestrado-2027",
+      "title": "Processo seletivo — Mestrado em Comunicação 2027",
+      "issuer": "PPGCOM / Universidade Federal do Ceará",
+      "category": "mestrados",
+      "event_type": "Edital",
+      "published_at": "2026-07-24",
+      "deadline_at": "2026-08-14",
+      "participant": "Candidatos à pós-graduação",
+      "location": "Fortaleza, CE",
+      "summary": "Edital de seleção para a turma 2027 do mestrado em Comunicação da UFC. O período inicial de inscrições informado pela instituição foi de 27 de julho a 14 de agosto de 2026.",
+      "status": "Inscrições encerradas",
+      "official_url": "https://ppgcom.ufc.br/pt/processo-seletivo-turma-2027-mestrado-e-doutorado-editais-lancados/",
+      "source_id": "ppgcom",
+      "confirmed": [
+        "título",
+        "data",
+        "prazo inicial de inscrições",
+        "página oficial"
+      ],
+      "needs_verification": [
+        "eventuais novas chamadas de inscrição"
+      ]
+    }
+  ]
 }

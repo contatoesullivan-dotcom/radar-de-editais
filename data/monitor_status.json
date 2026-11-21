@@ -1,70 +1,70 @@
 {
-  "last_run_at": "2026-11-20T22:41:14+00:00",
+  "last_run_at": "2026-11-21T11:39:50+00:00",
   "overall": "parcial",
   "sources": {
     "agropolos": {
       "state": "ok",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "10 publicações reconhecidas; 0 novas"
     },
     "ppgcom": {
       "state": "ok",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "10 publicações reconhecidas; 0 novas"
     },
     "funcap": {
       "state": "ok",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "30 publicações reconhecidas; 0 novas"
     },
     "ifce": {
       "state": "ok",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "3 publicações reconhecidas; 0 novas"
     },
     "mapa-ce": {
       "state": "ok",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "2 publicações reconhecidas; 0 novas"
     },
     "ufjf": {
       "state": "ok",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "3 publicações reconhecidas; 0 novas"
     },
     "ufma": {
       "state": "ok",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "30 publicações reconhecidas; 0 novas"
     },
     "ufpe": {
       "state": "falhou",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "URLError: <urlopen error timed out>"
     },
     "ufmg": {
       "state": "falhou",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
     },
     "ufba": {
       "state": "ok",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "18 publicações reconhecidas; 0 novas"
     },
     "ufrn": {
       "state": "ok",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "3 publicações reconhecidas; 0 novas"
     },
     "fortaleza-tce": {
       "state": "atencao",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "Página acessível, mas nenhum link compatível foi reconhecido; conferir estrutura"
     },
     "pncp": {
       "state": "ok",
-      "checked_at": "2026-11-20T22:41:14+00:00",
+      "checked_at": "2026-11-21T11:39:50+00:00",
       "detail": "28 publicações reconhecidas; 0 novas"
     }
   },
